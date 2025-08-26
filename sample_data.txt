@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data xmlns="http://example.com">
+  <row>
+    <shape>Square</shape>
+    <degrees>360</degrees>
+    <sides>4.0</sides>
+  </row>
+  <row>
+    <shape>Circle</shape>
+    <degrees>360</degrees>
+    <sides></sides>
+  </row>
+  <row>
+    <shape>Triangle</shape>
+    <degrees>360</degrees>
+    <sides>3.0</sides>
+  </row>
+</data>
